@@ -16,6 +16,7 @@ namespace LocalizationForm
                 Content = new Label
                 {
                     Text = LocalizationResources.Sth,
+                    BackgroundColor = Color.Red,
                     VerticalOptions = LayoutOptions.CenterAndExpand,
                     HorizontalOptions = LayoutOptions.CenterAndExpand,
                 },
