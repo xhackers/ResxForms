@@ -11,5 +11,6 @@ namespace LocalizationForm.AppResources
         private static readonly LocalizationResources _localizedResources = new LocalizationResources();
 
         public LocalizationResources LocalizationResources { get { return _localizedResources; } }
+
     }
 }
